@@ -1,3 +1,4 @@
+![Bad Weather Website](./github/SocialPreview.jpg)
 # BadWeatherStudios
 The website of Bad Weather Studios
 
